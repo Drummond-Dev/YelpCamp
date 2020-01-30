@@ -5,3 +5,6 @@ Aplicação de divulgação de Campings, onde o usuário pode se cadastrar e faz
 > Aplicação criada no decorar do curso da Udemy - The Web Developer Bootcamp, ministrado pelo Colt Steele.
 > As liguagens utilizadas foram: NodeJS, HTML5, CSS3.
 
+## Instalação
+###### npm install
+###### node app.js
